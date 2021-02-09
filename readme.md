@@ -125,3 +125,7 @@ to non-empty value and it will prompt for login.
 For styling we use [Bulma CSS](https://unpkg.com/bulma). It's access through `unpkg.com` CDN directly.
 
 We also use [CodeMirror](https://unpkg.com/codemirror) to enhance Editor and syntax highlight.
+
+## Related Projects
+
+Looking for more feature? Try [FirePage](https://github.com/zemian/firepage)
