@@ -128,4 +128,5 @@ We also use [CodeMirror](https://unpkg.com/codemirror) to enhance Editor and syn
 
 ## Related Projects
 
-Looking for more feature? Try [FirePage](https://github.com/zemian/firepage)
+* Looking for more CMS like features? Try [FirePage](https://github.com/zemian/firepage)
+* Looking for a simple directory listing? Try [PurpleIndex](https://github.com/zemian/purple-index)
